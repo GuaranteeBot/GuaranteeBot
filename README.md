@@ -6,8 +6,8 @@
 
 <br/>
 
-[![](https://img.shields.io/github/license/GuaranteeBot/GuaranteeBot?color=green)]()
-[![](https://img.shields.io/badge/language-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg)]()
-[![](https://img.shields.io/badge/Telegram群组-GuaranteePay&担保宝-blue.svg)](https://t.me/GuaranteeBots)
-[![](https://img.shields.io/badge/Telegram通知频道-担保宝|TG匿名担保平台-blue.svg)](https://t.me/GuaranteePay)
-[![](https://img.shields.io/badge/担保交易机器人-担保宝@GuaranteePayBot-blue.svg)](https://t.me/GuaranteePayBot)
+[![LICENSE](https://img.shields.io/github/license/GuaranteeBot/GuaranteeBot?color=green)](https://github.com/GuaranteeBot/GuaranteeBot/blob/main/LICENSE)
+[![LANGUAGE](https://img.shields.io/badge/language-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg)](https://github.com/GuaranteeBot/GuaranteeBot)
+[![Telegram Chat](https://img.shields.io/badge/Telegram群组-GuaranteePay&担保宝-blue.svg)](https://t.me/GuaranteeBots)
+[![Telegram Channel](https://img.shields.io/badge/Telegram通知频道-担保宝|TG匿名担保平台-blue.svg)](https://t.me/GuaranteePay)
+[![Telegram Bot](https://img.shields.io/badge/担保交易机器人-担保宝@GuaranteePayBot-blue.svg)](https://t.me/GuaranteePayBot)
