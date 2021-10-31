@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://cdn.jsdelivr.net/gh/GuaranteeBot/GuaranteeBot@main/logo.png" alt="logo" width="130" height="130" align="left" />
 
-<!--
-**GuaranteeBot/GuaranteeBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Telegram Guaranteed Robot</h1>
 
-Here are some ideas to get you started:
+> The first anonymous secured transaction platform in the Telegram ecosystem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![](https://img.shields.io/github/license/GuaranteeBot/GuaranteeBot?color=blue)
+![](https://img.shields.io/badge/language-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-blue.svg)
+![https://t.me/GuaranteeBots](https://img.shields.io/badge/Telegram群组-GuaranteePay & 担保宝-blue.svg)
+![https://t.me/GuaranteePay](https://img.shields.io/badge/Telegram通知频道-担保宝|TG匿名担保平台-blue.svg)
+![https://t.me/GuaranteePayBot](https://img.shields.io/badge/担保交易机器人-担保宝@GuaranteePayBot-blue.svg)
