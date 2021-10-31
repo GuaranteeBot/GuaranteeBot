@@ -6,7 +6,7 @@
 
 <br/>
 
-<--
+<!--
 [![LICENSE](https://img.shields.io/github/license/GuaranteeBot/GuaranteeBot?color=green)](https://github.com/GuaranteeBot/GuaranteeBot/blob/main/LICENSE)
 -->
 
