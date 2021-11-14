@@ -1,6 +1,6 @@
 <img src="https://cdn.jsdelivr.net/gh/GuaranteeBot/GuaranteeBot@main/logo.png" alt="logo" width="130" height="130" align="left" />
 
-<h1>Telegram 匿名担保交易机器人</h1>
+<h1>Telegram 匿名担保交易机器人 - 担保宝</h1>
 
 > The first anonymous secured transaction platform in the Telegram ecosystem
 
